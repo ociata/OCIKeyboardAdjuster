@@ -9,6 +9,7 @@ OCIKeyboardAdjuster is a utility class written in Swift that maintains scroll vi
   * `UICollectionView`
   * `UIScrollView`
 * Written in Swift 2.0(supports Swift 1.2 also)
+
 ## Usage
 The most simple way to use is call following in your `viewDidLoad` method:
 ```
